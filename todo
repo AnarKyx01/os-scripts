@@ -1,0 +1,36 @@
+- log to log file
+- check if already installed via pip?
+- remove screenlock
+- do not ping www.google.com during internet check
+- Harden SSH, redo keys + lenght
+- ftpd left running
+- xfce4 shoult be the default desktop, not gnome
+- second interface ip address is static in script
+- Fix/patch from gotmilk github on xfce4 wallpaper rotate.
+- add 2nd user, can zsh and other shit be defaulted? Skeleton?
+
+- Install
+	- CobaltStrike
+	- Chrome
+	- JohntheRippper Jumbo
+	- Wordlists
+	- BinbaryNinja
+	- NetworkMiner  (website has instructions for installing mono)
+	- featherduster
+	- JRE (java for CS)
+	- Radare2?
+	- uncompyle2 (Also pycdc & uncompyle6)
+	- Peda / gef
+	  - Addons for gef, via pip
+	- Hashcat
+		(to run on CPU, aptt-get install libhwloc-dev ocl-icd-dev ocl-icd-opencl-dev pocl-opencl-icd)
+	- Hexchat
+	- PyCharm Pro
+	- Chrome Plugins
+	  - Lastpass
+	  - ghost
+	  - uBlock
+	- python pwn (pip install --upgrade pwntools)  ### https://www.pwntools.com
+	  - binutils (apt-get install binutils)
+	  - libssl-dev (apt-get install libssl-dev)
+ltrace /strace

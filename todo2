@@ -1,0 +1,191 @@
+
+- gnome shell check fail?
+
+[+] (32/190) Installing firefox ~ GUI web browser
+curl is already the newest version (7.55.1-1).
+firefox-esr is already the newest version (52.4.0esr-2).
+firefox-esr set to manually installed.
+unzip is already the newest version (6.0-21).
+unzip set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+sed: can't read : No such file or directory
+
+
+
+ [i] Enabled Firefox's extensions (via method #2 - extensions.json)
+ [!] Something went wrong with the FoxyProxy firefox extension (did any extensions install?). Skipping...
+
+
+ [+] (35/190) Installing metasploit ~ exploit framework
+metasploit-framework is already the newest version (4.16.11-0kali1).
+metasploit-framework set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Creating database user 'msf'
+Enter password for new role: 
+Enter it again: 
+Creating databases 'msf' and 'msf_test'
+Creating configuration file in /usr/share/metasploit-framework/config/database.yml
+Creating initial database schema
+ [i] (36/190) Starting Metasploit for the first time ~ this will take a ~350 seconds (~6 mintues)
+
+- Make sure FTP is off by default
+- Remove FileZilla
+- WTF is deamonfs
+
+
+ [+] (84/190) Installing Aircrack-ng ~ Wi-Fi cracking suite
+aircrack-ng is already the newest version (1:1.2-0~rc4-2).
+aircrack-ng set to manually installed.
+curl is already the newest version (7.55.1-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+/usr/bin/update-ieee-data
+Downloading http://standards.ieee.org/regauth/oui/oui.txt to /var/lib/ieee-data//oui.txt
+/tmp/fileQJUBQJ /var/lib/ieee-data//oui.txt
+Downloading http://standards.ieee.org/regauth/oui/iab.txt to /var/lib/ieee-data//iab.txt
+/tmp/fileQJUBQJ /var/lib/ieee-data//iab.txt
+Downloading http://standards.ieee.org/develop/regauth/oui28/mam.txt to /var/lib/ieee-data//mam.txt
+/tmp/fileQJUBQJ /var/lib/ieee-data//mam.txt
+Downloading http://standards.ieee.org/develop/regauth/oui36/oui36.txt to /var/lib/ieee-data//oui36.txt
+/tmp/fileQJUBQJ /var/lib/ieee-data//oui36.txt
+Running parsers from /var/lib/ieee-data//update.d
+ [!] Issue downloading oui.txt
+
+
+
+ [+] (95/190) Installing azazel ~ Linux userland rootkit
+
+- remove git being installed for everyhting
+
+
+[+] (132/190) Downloading PsExec.exe ~ Pass The Hash 'phun'
+curl is already the newest version (7.55.1-1).
+unzip is already the newest version (6.0-21).
+unrar is already the newest version (1:5.5.8-1).
+windows-binaries is already the newest version (0.6.1).
+The following packages were automatically installed and are no longer required:
+  cpp-6 hashcat-data lib32asan4 lib32atomic1 lib32cilkrts5 lib32gcc1 lib32gomp1 lib32itm1 lib32mpx2 lib32quadmath0 lib32stdc++6 lib32ubsan0 libasan3 libc6-dev:i386 libc6-dev-i386 libclang-common-3.8-dev
+  libclang1-3.8 libffi-dev libgcc-6-dev libhwloc-plugins libhwloc5 libllvm3.8 libobjc-6-dev libobjc4 libpocl1-common libstdc++-6-dev libtinfo-dev linux-headers-4.13.0-kali1-common linux-kbuild-4.13
+  linux-libc-dev:i386 llvm-3.8 llvm-3.8-dev llvm-3.8-runtime python-rsvg
+Use 'apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+######################################################################## 100.0%
+######################################################################## 100.0%
+curl: (22) The requested URL returned error: 404 Not Found
+ [!] Issue downloading pshtoolkit.rar
+
+
+- restore point
+- check if installed and skip if no -f or some sort of flag
+- metasploit install pretty pointless?
+
+fatal: destination path '/opt/rips-git' already exists and is not an empty directory.
+ [!] Issue when git cloning
+- If installed, update?
+
+
+[+] (84/190) Installing Aircrack-ng ~ Wi-Fi cracking suite
+aircrack-ng is already the newest version (1:1.2-0~rc4-2).
+curl is already the newest version (7.55.1-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+/usr/bin/update-ieee-data
+The files are kinda new yet (less than 5 days old)
+######################################                                    53.9%
+- WTF is this doing?
+	- timeout 600 airodump-ng-oui-update.  Ignore doing if installed.
+
+
+
+ [+] (88/190) Installing vulscan script for nmap ~ vulnerability scanner add-on
+curl is already the newest version (7.55.1-1).
+nmap is already the newest version (7.60+dfsg2-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+######################################################################## 100.0%
+gzip: /tmp/nmap_nse_vulscan.tar already exists; do you wish to overwrite (y or n)? n
+
+- check for Use 'apt autoremove' to remove them. and remove
+
+
+##### Install MinGW (Windows) ~ cross compiling suite
+- links appears bad?
+
+
+[+] (136/190) Installing hyperion ~ bypassing anti-virus
+unzip is already the newest version (6.0-21).
+windows-binaries is already the newest version (0.6.1).
+The following packages were automatically installed and are no longer required:
+  cpp-6 hashcat-data lib32asan4 lib32atomic1 lib32cilkrts5 lib32gcc1 lib32gomp1 lib32itm1 lib32mpx2 lib32quadmath0 lib32stdc++6 lib32ubsan0 libasan3 libc6-dev:i386 libc6-dev-i386 libclang-common-3.8-dev
+  libclang1-3.8 libffi-dev libgcc-6-dev libhwloc-plugins libhwloc5 libllvm3.8 libobjc-6-dev libobjc4 libpocl1-common libstdc++-6-dev libtinfo-dev linux-headers-4.13.0-kali1-common linux-kbuild-4.13
+  linux-libc-dev:i386 llvm-3.8 llvm-3.8-dev llvm-3.8-runtime python-rsvg
+Use 'apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 11 not upgraded.
+UnZip 6.00 of 20 April 2009, by Debian. Original by Info-ZIP.
+
+Usage: unzip [-Z] [-opts[modifiers]] file[.zip] [list] [-x xlist] [-d exdir]
+  Default action is to extract files in list, except those in xlist, to exdir;
+  file[.zip] may be a wildcard.  -Z => ZipInfo mode ("unzip -Z" for usage).
+
+  -p  extract files to pipe, no messages     -l  list files (short format)
+  -f  freshen existing files, create none    -t  test compressed archive data
+  -u  update files, create if necessary      -z  display archive comment only
+  -v  list verbosely/show version info       -T  timestamp archive to latest
+  -x  exclude files that follow (in xlist)   -d  extract files into exdir
+modifiers:
+  -n  never overwrite existing files         -q  quiet mode (-qq => quieter)
+  -o  overwrite files WITHOUT prompting      -a  auto-convert any text files
+  -j  junk paths (do not make directories)   -aa treat ALL files as text
+  -U  use escapes for all non-ASCII Unicode  -UU ignore any Unicode fields
+  -C  match filenames case-insensitively     -L  make (some) names lowercase
+  -X  restore UID/GID info                   -V  retain VMS version numbers
+  -K  keep setuid/setgid/tacky permissions   -M  pipe through "more" pager
+See "unzip -hh" or unzip.txt for more help.  Examples:
+  unzip data1 -x joe   => extract all files except joe from zipfile data1.zip
+  unzip -p foo | more  => send contents of foo.zip via pipe into program more
+  unzip -fo foo ReadMe => quietly replace existing ReadMe if archive file newer
+i686-w64-mingw32-g++: error: /usr/share/windows-binaries/Hyperion-1.0/Src/Crypter/*.cpp: No such file or directory
+ln: failed to create symbolic link '/usr/share/windows-binaries/Hyperion-1.0/crypter.exe': No such file or directory
+wine: cannot find '/root/.wine/drive_c/MinGW/bin/g++.exe'
+
+
+
+E: Package 'vncviewer' has no installation candidate
+ [!] Issue with apt install
+
+
+[i] Pure-FTPd username: anonymous
+ [i] Pure-FTPd password: anonymous
+pure-ftpd.service is not a native service, redirecting to systemd-sysv-install.
+
+
+- Hashcat installed by default?
+- fix hashcat opencl>???
+
+- John jumbo
+
+git clone https://github.com/longld/peda.git ~/peda
+echo "source ~/peda/peda.py" >> ~/.gdbinit
+echo "DONE! debug your program with gdb and enjoy"
+
+
+### protstar
+
+mount -o loop exploit-exercises-protostar-2.iso /mnt/iso
+cd /media/root/exploit-exercises-protostar/live
+mount -o loop -t squashfs filesystem.squashfs /mnt/img
+cp -r /mnt/img/opt/protostar /opt
+
+
+git clone https://github.com/ziflar/beef-xss_fix
+cd beef-xss_fix/ && chmod +x beef-resolve.sh && ./beef-resolve.sh
